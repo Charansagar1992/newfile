@@ -23,3 +23,9 @@ git init.
 git init .
 git add .
 git commit -m "first commit"
+yum install git -y
+git init.
+ll
+ls -al
+touch lokesh
+vim lokesh i
